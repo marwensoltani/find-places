@@ -1,0 +1,6 @@
+{
+	"appId": "de.tekup.find.places",
+	"appName": "find-places-p",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
